@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283156715878','6283156715878','6283156715878']
-global.premium = ['6283156715878']
-global.ownernomer = '6283156715878'
-global.ownername = 'Arthur satir'
-global.botname = 'Arthur-Md'
-global.footer = 'Arthur'
+global.owner = ['6285774269597','6285774269597','6285774269597']
+global.premium = ['6285774269597']
+global.ownernomer = '6285774269597'
+global.ownername = 'Rafii satir'
+global.botname = 'Rafii-Md'
+global.footer = 'Rafii'
 global.ig = 'https://instagram.com/reihan_arthur?igshid=YmMyMTA2M2Y='
 global.email = 'reihanarthur33@gmail.com'
 global.region = 'Indonesia'
